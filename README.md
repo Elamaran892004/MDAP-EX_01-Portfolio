@@ -76,7 +76,7 @@ Upload to GitHub Pages for free hosting.
     </header>
     <section id="about" class="about">
         <div class="img-con">
-                <img src="./arun.jpg" alt="" >
+                <img src="./elamaran.jpg" alt="" >
         </div>
         <div class="description">
             <h3>Hi, I am</h3>
