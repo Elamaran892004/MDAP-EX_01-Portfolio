@@ -83,8 +83,8 @@ Upload to GitHub Pages for free hosting.
             <h1>Arun</h1>
             <h4>Fullstack Developer</h4>
             <div class="social-media">
-                <a href="https://github.com/ARUNKUMART9968?tab=repositories"><i class="fab fa-github"></i></a>
-               <a href="https://www.linkedin.com/in/arun-kumar-t-563746256/"> <i class="fab fa-linkedin"></i></a>
+                <a href="https://github.com//Elamaran892004?tab=repositories"><i class="fab fa-github"></i></a>
+               <a href="https://www.linkedin.com/in/elamaran-N-563746256/"> <i class="fab fa-linkedin"></i></a>
             </div> 
         
             <div class="abt-btn">
@@ -176,7 +176,7 @@ Upload to GitHub Pages for free hosting.
                     <a href="https://github.com/Elamaran892004/AI-code-_reviewe">
                         <button class="g-btn">Github</button>
                     </a>
-                    <a href="https://amazon-clone-arun.netlify.app/">
+                    <a href="https://amazon-clone-elamaran.netlify.app/">
                         <button class="d-btn">Live Demo</button>
                     </a>
                 </div>
